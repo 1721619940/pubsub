@@ -1,0 +1,15 @@
+{
+  "name": "in-memory-pubsub",
+  "version": "1.0.0",
+  "description": "Simplified in-memory Pub/Sub system with WebSocket and REST API",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1",
+    "ws": "^8.18.3"
+  }
+}
