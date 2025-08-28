@@ -12,6 +12,16 @@ A lightweight **Pub/Sub messaging system** implemented in **Node.js**, featuring
 
 ---
 
+## Clone & Install
+
+git clone https://github.com/1721619940/pubsub.git
+cd pubsub
+cd tech project
+
+# Install dependencies
+npm install
+
+
 ## 🚀 Features
 
 - **WebSocket API**
@@ -185,6 +195,7 @@ MIT License. Free to use, modify, and distribute.
 
 
 ---
+
 
 
 
