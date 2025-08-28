@@ -14,11 +14,11 @@ A lightweight **Pub/Sub messaging system** implemented in **Node.js**, featuring
 
 ## Clone & Install
 
-git clone https://github.com/1721619940/pubsub.git
-cd pubsub
-cd tech project
+- git clone https://github.com/1721619940/pubsub.git
+- cd pubsub
+- cd tech project
 
-# Install dependencies
+### Install dependencies
 npm install
 
 
@@ -195,6 +195,7 @@ MIT License. Free to use, modify, and distribute.
 
 
 ---
+
 
 
 
