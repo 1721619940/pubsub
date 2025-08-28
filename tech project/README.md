@@ -45,7 +45,7 @@ npm install
 ---
 
 ## 📂 Project Structure
-
+```
 pubsub-service/
 │
 ├── src/
@@ -62,7 +62,7 @@ pubsub-service/
 ├── package.json
 └── README.md
 
-
+```
 ---
 
 ## 🔑 Authentication
@@ -195,6 +195,7 @@ MIT License. Free to use, modify, and distribute.
 
 
 ---
+
 
 
 
